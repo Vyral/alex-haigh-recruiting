@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Florida Careers
 permalink: /join-our-team/
 ---
 
@@ -15,39 +15,57 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>Are you a new agent or perhaps you’ve been in the industry for a couple of years working at a brokerage, or independently? Do you find yourself lacking the resources to generate more income and the opportunities you desire?</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Studies show that 87% of real estate agents leave the business within the first 18 months of getting their license. This is sadly due to a lack of training, accountability, structure, and opportunities. As a seasoned real estate professional providing value to our neighbors of The Treasure Coast of Florida, I understand your struggle.</p>
+
+<p>Many agents find initial spotty success by working with people in their life who they already know. Eventually, they all run into the situation where they have exhausted their personal connections and are left with no database to secure new opportunities and no clue where to go next. With no systems, training, and mentoring, the future of a successful career is murky.</p>
+
+<p>This leads to a lot of uncertainty and unnecessary stress. People have no idea whether they will see another paycheck after their next contract. If you don’t find the right training and support to make your real estate career lucrative, you’ll have to go back to your regular 9-to-5 job with a standard salary, low-income ceiling, and the opportunity of a true work-life balance disappears.</p>
+
+<p>The truth is, some agents just aren’t prepared for the industry. They lack the focus and clear picture of the education and support to succeed in the long term. I have a solution! On my team, we ensure that our agents are provided the tools, systems, training, and support they need to be successful and reach their goals in this business.</p>
+
+<p>Allow me to introduce myself. I’m Alex Haigh and I have been in the real estate business for nearly two decades. I have weathered the market changes and corrections during this time, and through it, all have seen my income steadily increase over the past 15 consecutive years. Without fail, my team has continued to grow and find success.</p>
+
+<p>No other team in Florida can provide for their agents what our team can. At The Haigh Group,
+you will be provided with:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>A customer relation manager (CRM) with an implemented dialer and artificial intelligence texting platform</li>
+<li>A system of automated follow-up measures that you can rely on to streamline your prospecting and day-to-day workflow</li>
+<li>Direct live transfers of prospects ready to speak with a real estate professional</li>
+<li>One-on-one mentoring and coaching with experienced agents</li>
+<li>A large volume of high-quality leads</li>
+<li>A fully integrated IDX search website featuring data from Beaches and RMAC MLS systems</li>
+<li>Weekly coaching by our Mega Agent</li>
+<li>Access to all of the eXp training platforms</li>
+<li>Free for-sale signs</li>
+<li>500 free business cards</li>
+<li>No administrative expenses</li>
+<li>Operational support</li>
+<li>Dedicated Transaction Coordinator</li>
+<li>Much, much more</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. We utilize pay-per-click advertising, Zillow, and social media, among others. We provide a high-quality CRM based on the premium CINC platform that is fully integrated into our website and mobile-friendly as well as an outsourced National ISA (Internal Sales Agent) platform that calls leads within minutes of the prospect entering their information onto our site.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>In addition to the access to our systems, our new agents also gain immediate credibility when they join our team — due to the high volume of business we’re doing at all times. In short, you could continue at your current pace — making inconsistent income, struggling due to lack of training and education, and having little freedom in your life and career. You could also simply quit and take on a 9-to-5 job where you have no flexibility and no room for advancement. Or, you could take the first step on the road to success and join my team.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>From day one, you’ll get started in training with our Operations Manager, Candice. She will complete a tailored onboarding process based on your level of expertise that will include a review of policies and procedures, best practices, and CRM training; as well as conduct continued weekly accountability and training sessions. Within the first two weeks, you’ll be engaged in coaching sessions with me and other company leaders about how we work with buyers and our lead generation strategies, such as L.P.M.A.M.A.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>We’re confident that you’ll see immediate success on our team, but don’t just take my word for it. We’ve had two agents join our team in the last year that has hit the ground running. One agent had only sold one home in 18 months before joining us but has closed seven homes in just six months. Another agent joined us May 2019 and has already closed four deals with two more pending.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Agents on our team are known to thrive. We believe in a culture of accountability, hard work, follow through on expectations, and exceeding our goals. If you can adopt our culture, you will grow immensely as an agent on our team.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>Here’s what I am offering you: The chance to enter a business relationship that you deserve. We know the combination of opportunities and mentorship, high-quality leads, and proficient systems with proven procedures will propel you to do more than you ever thought was possible! We are as committed to you as you are to us.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>If you’re feeling the pain of uncertainty and not knowing what your next step is, now is the time to call me. If you are motivated with a drive to exceed your goals, please apply today.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>I look forward to talking with you.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>Alex Haigh</p>
 
-<p>{{site.data.settings.client.name}}</p>
 
 
 
@@ -57,7 +75,6 @@ permalink: /join-our-team/
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
 						<!--base32-c9gq6t9k68pkcd3jcwpp4rbkcmtk4-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
 						<!--base32-c9gq6t9k68pk8cbme5gq4uv4cguqachj70r2urk1edjk6cg-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
-					<!--base32-c9gq6t9k68pk8c9he1t7cxkecdkpedhpe9h6at3me5r7ee1kddhpwx9q71up4tb3f1u6mc3mdcwp6vkg6rw3gc1dc9gq6t9k68-base32-->
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
 </div>
