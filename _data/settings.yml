@@ -9,6 +9,8 @@ custom_links:
     url: https://www.eventbrite.com/o/hosted-by-alexander-haigh-27320440689
   - title: Free Strategy Call
     url: /strategy-call/
+  - title: Free newsletter
+    url: /subscribe/
 client:
   name: Alex Haigh
   title:
