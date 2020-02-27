@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Origin Stories: How I Made My Mark in the Real Estate Industry'
-date: 2020-02-25 19:31:59
+date: 2020-02-25 19:31:00
 tags:
 excerpt: >-
   Today, my guest Morgan and I sat down for a conversation about my journey to
@@ -19,9 +19,9 @@ youtube_code: s2VKIR25pVQ
 
 *Today, my guest Morgan and I sat down for a conversation about my journey to success in the real estate industry.*
 
-Starting a career in real estate can be frustrating and full of obstacles and barriers that seem impossible to overcome. However, it doesn’t have to be that way; by learning from those who came before, you can learn about the strategies and mindsets that helped veterans of the industry get to where they are now—successful leaders who work at the head of their own teams. Today I sat down with a guest to share the story of my journey into real estate and what I learned from the trials I faced.
+Starting a career in real estate can be frustrating and full of obstacles and barriers that seem impossible to overcome. However, it doesn’t have to be that way; by learning from those who came before, you can learn about the strategies and mindsets that helped veterans of the industry become successful leaders who work at the head of their own teams. Today I sat down with a guest to share the story of my journey into real estate and what I learned from the trials I faced.
 
-**Feel free to follow along in the video above, or you can use the timestamps provided below to navigate the discussion at your leisure:**
+**Feel free to follow along in the video above, or you use the timestamps provided below to navigate the discussion at your leisure:**
 
 0:19—How I started my real estate career
 
