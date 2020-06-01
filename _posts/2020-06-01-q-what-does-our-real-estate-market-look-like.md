@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: What Does Our Real Estate Market Look Like?'
-date: 2020-06-01 21:31:14
+date: 2020-06-01 21:31:00
 tags:
-excerpt:
-enclosure: The April numbers for the tri-county area market are amazing! Learn more here.
+excerpt: The April numbers for the tri-county area market are amazing! Learn more here.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Haigh/What+Were+The+Numbers+Like+In+April_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,6 +17,7 @@ youtube_code: 9kqvWJMUbkY
 {% include youtube.html %}
 
 <center><em>The April numbers for the tri-county area market are amazing\! Learn more here.</em></center>
+
 &nbsp;
 
 We were staggered to see the numbers from the April 2020 market as they compared to 2019. Here’s what we mean:
