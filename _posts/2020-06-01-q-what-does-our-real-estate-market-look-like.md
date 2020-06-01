@@ -15,7 +15,8 @@ youtube_code: 9kqvWJMUbkY
 
 {% include youtube.html %}
 
-*The April numbers for the tri-county area market are amazing\! Learn more here.*
+<center><em>The April numbers for the tri-county area market are amazing\! Learn more here.</em></center>
+&nbsp;
 
 We were staggered to see the numbers from the April 2020 market as they compared to 2019. Here’s what we mean:
 
